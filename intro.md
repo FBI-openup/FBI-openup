@@ -89,12 +89,4 @@
 
 ---
 
-## 📫 Contact Me
-
-- 📧 **Email:** [boyuan.zhang@polytechnique.edu](mailto:boyuan.zhang@polytechnique.edu)
-- 🏢 **LinkedIn:** [Boyuan Zhang](https://www.linkedin.com/in/boyuan-zhang)
-- 💻 **GitHub:** [FBI-openup](https://github.com/FBI-openup)
-
----
-
 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
