@@ -1,4 +1,4 @@
-### Hi there, I'm **Boyuan Zhang**! 👋
+### Hi there, I'm **Victor**! 👋
 
 🚀 **M1 Student in Cyber-Physical Systems at École Polytechnique**  
 🔬 Looking for a **5-6-month research-oriented internship** (Mar - Sep 2026)  
