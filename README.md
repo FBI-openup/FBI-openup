@@ -7,6 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
   
 </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=FBI-openup&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Proficient in:
