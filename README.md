@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/cover.png" alt="Victor's AI & Tech Banner" width="800px">
 </p>
 
