@@ -9,6 +9,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=synthwave&bg_color=135,392842,654b7c&custom_lang_colors=Jupyter%20Notebook:%231f77b4,HTML:%23e34c26" alt="Victor's Top Languages"/>
 </p>
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=135,2E3440,88C0D0" alt="Victor's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=nord&bg_color=135,2E3440,88C0D0&custom_lang_colors=Jupyter%20Notebook:%231f77b4,HTML:%23e34c26" alt="Victor's Top Languages"/>
+</p>
 
 ### Proficient in:
 <p align="left">
