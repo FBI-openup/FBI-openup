@@ -1,8 +1,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="350px">
 </p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="500px">
+<p align="right">
+  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="400px">
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
