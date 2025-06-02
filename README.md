@@ -40,53 +40,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="800px">
 </p>
-## 🏫 Education
 
-- 🎓 **École Polytechnique, Paris, France** *(2024 – Present)*  
-  - M1 in Cyber-Physical Systems
-  - Specialization in **Embedded Systems, AI, and Networks**
-- 🎓 **Université Paris-Saclay, Orsay, France** *(2023 – 2024)*  
-  - L3 Computer Science - MIAGE (CS Applied in Business Administration)
-  - Major in **Computer Methods Applied to Business Management** (GPA: Top 3)
-- 🎓 **Université de Rennes, Rennes, France** *(2021 – 2023)*  
-  - L1 & L2 in Computer Science
-  - L1 Computer Science - Electronics *(GPA: Top 20/400+)*
-  - L2 Computer Science *(GPA: Top 30/200+)*
 
----
-
-## 🌍 Languages
-
-- 🇨🇳 **Mandarin** *(Native)*
-- 🇬🇧 **English** *(C1+ | Linguaskill 180/180)*
-- 🇫🇷 **French** *(B2 Level)*
-
----
-
-## 🏆 Honors & Awards
-
-- 🏅 **First Place (18/20)**, First Section of **EDUC (European Digital UniverCity) Contest**, Subject: Escape Game (France, 2022)
-- 🥇 **National First Prize (Gold Olympic Medal)**, **National High School English Mastery Contest** (China, 2019)
-- 📖 **Published 2 Articles** in Scientific Journal for High School Students (China, 2020)
-- 🥉 **Bronze Medal**, LEGO Robotics Project Competition on Robots Assisting the Elderly (China, 2016)
-
----
-
-## 🔬 Experience
-
-### 🔹 Research Intern | ENSTA - École Nationale Supérieure de Techniques Avancées - Lab U2IS *(Paris, France | Mar 2025 – Sep 2025)*
+🔹 Research Intern | ENSTA - École Nationale Supérieure de Techniques Avancées - Lab U2IS *(Paris, France | Mar 2025 – Sep 2025)*
 - The implementation of reliable **local obstacle avoidance** and generalizable **global path planning algorithms** for Safe Worker-collaborative Navigation for AMR (Autonomous Mobile Robots).
 - Project: [yzrobot.github.io/navware/](https://yzrobot.github.io/navware/)
 
-### 🔹 Software Developer Intern | Zhejiang Zhaolong Interconnection Technology *(Zhejiang, China | May 2020 – Aug 2020)*
-- Assisted in developing a computer software for employees to see the parameters of different kinds of products.
-- Gained an understanding of internet company operations and how different sections of a mid-sized company work together.
 
----
+## Notable Projects
 
-## 🛠️ Notable Projects
-
-*(Note: Dates for some projects below appear to be in the future based on the CV provided in the prompt. I've kept them as is.)*
 
 ### 🔹 NavWare
 *A JCJC Research Project in the field of Mobile Robotics funded by the French National Research Agency (ANR) of €238,913*
@@ -119,11 +81,10 @@
 
 ---
 
-## 🏀 Hobbies & Interests
+## Hobbies & Interests
 
 - **Sports:** 🏀 Basketball (club member), 💪 Gym & Fitness
 - **Creative:** 🎨 Drawing (trained), 🎤 Singing
-- **Academics & Tech:** 🤖 AI & Robotics, 🔬 Cyber-Physical Systems, 💡 Economics & Entrepreneurship
 
 ---
 
