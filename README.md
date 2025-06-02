@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="350px">
 </p>
 <p align="center">
@@ -6,10 +6,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
 </p>
 ### Hi there, I'm **Victor**! 👋
-
-🚀 **M1 Student in Cyber-Physical Systems at École Polytechnique**, specializing in Embedded Systems, AI, and Networks.  
----
-
 ## 💻 Technical Skills
 
 ### Proficient in:
