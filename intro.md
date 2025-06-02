@@ -49,9 +49,7 @@
   <img src="https://img.shields.io/badge/Economics-0077B5?style=for-the-badge&logoColor=white&text=Economics" alt="Economics"/>
   <img src="https://img.shields.io/badge/Law-808080?style=for-the-badge&logoColor=white&text=Law" alt="Law"/>
   <img src="https://img.shields.io/badge/Accounting-4CAF50?style=for-the-badge&logoColor=white&text=Accounting" alt="Accounting"/>
-  <img src="https://img.shields.io/badge/Enterprise_Informatization-1E90FF?style=for-the-badge&logoColor=white&text=Enterprise Informatization" alt="Enterprise Informatization"/>
 </p>
-*(Logos for badges are sourced from [Simple Icons](https://simpleicons.org/))*
 
 ---
 
