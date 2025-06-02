@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/cover.png" alt="Victor's AI & Tech Banner" width="800px">
+  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/cover.png" width="1000px">
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FBI-openup&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
