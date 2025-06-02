@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=90,8A2BE2,1E90FF,FF4500,FF69B4" alt="Victor's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&bg_color=90,8A2BE2,1E90FF,FF4500,FF69B4" alt="Victor's GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=donut&theme=dracula&bg_color=30,FFFFFF,1E90FF,FF4500,FF69B4&langs_count=6&hide=HTML" alt="Victor's Top Languages"/>
 </p>
 
