@@ -9,6 +9,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=donut&theme=nord&bg_color=135,2E3440,88C0D0&langs_count=6&custom_lang_colors=Jupyter%20Notebook:%231f77b4" alt="Victor's Top Languages"/>
 </p>
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=135,8A2BE2,1E90FF,FF4500,FF69B4,32CD32" alt="Victor's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=donut&theme=nord&bg_color=135,8A2BE2,1E90FF,FF4500,FF69B4,32CD32&langs_count=6&custom_lang_colors=Jupyter%20Notebook:%231f77b4,HTML:%23e34c26" alt="Victor's Top Languages"/>
+</p>
+
 ### Proficient in:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
