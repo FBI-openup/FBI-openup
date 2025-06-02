@@ -2,13 +2,14 @@
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/cover.png" alt="Victor's AI & Tech Banner" width="800px">
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=FBI-openup&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
   
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FBI-openup&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Proficient in:
 <p align="left">
