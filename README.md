@@ -5,8 +5,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FBI-openup&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=DEG,90,392842,654b7c" alt="Victor's GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=synthwave&bg_color=DEG,90,392842,654b7c&custom_lang_colors=Jupyter%20Notebook:%231f77b4,HTML:%23e34c26" alt="Victor's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=135,392842,654b7c" alt="Victor's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=synthwave&bg_color=135,392842,654b7c&custom_lang_colors=Jupyter%20Notebook:%231f77b4,HTML:%23e34c26" alt="Victor's Top Languages"/>
 </p>
 
 
