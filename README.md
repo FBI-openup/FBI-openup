@@ -10,8 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
 </p>
-### Hi there, I'm **Victor**! 👋
-## 💻 Technical Skills
 
 ### Proficient in:
 <p align="left">
