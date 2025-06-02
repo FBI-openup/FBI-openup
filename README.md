@@ -1,4 +1,4 @@
-## Hi， Im Victor 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FBI-openup)](https://git.io/streak-stats)
 ###
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
