@@ -11,7 +11,7 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=90,8A2BE2,1E90FF,FF4500" alt="Victor's GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=donut&theme=nord&bg_color=45,8A2BE2,1E90FF,FF4500&langs_count=6&custom_lang_colors=Jupyter%20Notebook:%231f77b4,HTML:%23e34c26" alt="Victor's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=donut&theme=nord&bg_color=135,8A2BE2,1E90FF,FF4500&langs_count=6 alt="Victor's Top Languages"/>
 </p>
 
 ### Proficient in:
