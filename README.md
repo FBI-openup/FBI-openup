@@ -36,10 +36,6 @@
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Systems"/>
-  <img src="https://img.shields.io/badge/Economics-0077B5?style=for-the-badge&logoColor=white&text=Economics" alt="Economics"/>
-  <img src="https://img.shields.io/badge/Law-808080?style=for-the-badge&logoColor=white&text=Law" alt="Law"/>
-  <img src="https://img.shields.io/badge/Accounting-4CAF50?style=for-the-badge&logoColor=white&text=Accounting" alt="Accounting"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="800px">
