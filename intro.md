@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://source.unsplash.com/random/900x300/?ai,technology,futuristic,cyber,robotics,code" alt="AI & Technology Banner">
+  <!-- 请将下面的 <OWNER> 替换为你的 GitHub 用户名，并将 <GIF_NAME>.gif 替换为你的 GIF 文件名 -->
+  <!-- 示例: https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/my-banner.gif -->
+  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="900px">
 </p>
 
 ### Hi there, I'm **Victor**! 👋
@@ -7,6 +9,49 @@
 🚀 **M1 Student in Cyber-Physical Systems at École Polytechnique**, specializing in Embedded Systems, AI, and Networks.  
 🔬 Actively seeking a **5-6 month research-oriented internship** from March to September 2026.  
 🌍 Based in **Paris, France**.  
+
+---
+
+## 💻 Technical Skills
+
+### Proficient in:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=feedly&logoColor=white" alt="XML"/> <!-- Using Feedly logo as a stand-in for generic XML -->
+  <img src="https://img.shields.io/badge/x86_64_Assembly-522D80?style=for-the-badge&logo=intel&logoColor=white" alt="x86-64 Assembly"/>
+  <img src="https://img.shields.io/badge/GDB-CC0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+### Intermediate in:
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
+  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logoColor=white&text=Lustre" alt="Lustre"/> <!-- No specific logo for Lustre, using text -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Systems"/>
+  <img src="https://img.shields.io/badge/Economics-0077B5?style=for-the-badge&logoColor=white&text=Economics" alt="Economics"/>
+  <img src="https://img.shields.io/badge/Law-808080?style=for-the-badge&logoColor=white&text=Law" alt="Law"/>
+  <img src="https://img.shields.io/badge/Accounting-4CAF50?style=for-the-badge&logoColor=white&text=Accounting" alt="Accounting"/>
+  <img src="https://img.shields.io/badge/Enterprise_Informatization-1E90FF?style=for-the-badge&logoColor=white&text=Enterprise Informatization" alt="Enterprise Informatization"/>
+</p>
+*(Logos for badges are sourced from [Simple Icons](https://simpleicons.org/))*
 
 ---
 
@@ -22,18 +67,6 @@
   - L1 & L2 in Computer Science
   - L1 Computer Science - Electronics *(GPA: Top 20/400+)*
   - L2 Computer Science *(GPA: Top 30/200+)*
-
----
-
-## 💻 Technical Skills
-
-**Proficient in:**
-- **Programming Languages:** `Java`, `Scala`, `Python`, `C`, `JavaFX`, `SQL`, `HTML`, `PHP`, `CSS`, `XML`, `x86-64 Assembly`
-- **Tools & Frameworks:** `GDB`, `LaTeX`, `Git`, `Docker`, `Linux`, `PowerShell`
-
-**Intermediate in:**
-- **Programming Languages:** `C++`, `C#`, `Julia`, `Lustre`, `JavaScript`, `YAML`, `Lua`, `HCL`
-- **Other Skills:** Arduino Systems, Economics, Law, Accounting, Enterprise Informatization
 
 ---
 
@@ -99,8 +132,6 @@
 - Developed a JavaFX tool for text comparison.
 - Allows adding, modifying, and commenting on texts.
 
-*(Project "Break the Code" from your text prompt was not in the original CV image's "Projects" section, so I've omitted it to align with the CV structure you provided in the image. If you want it added back, let me know!)*
-
 ---
 
 ## 🏀 Hobbies & Interests
@@ -115,8 +146,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/FBI-openup"> <!-- Replace with your actual GitHub username if different -->
-    <img src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
-  </a>
+  <!-- 请将下面的 username=FBI-openup 替换为你的 GitHub 用户名 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
 </p>
