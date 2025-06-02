@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <p style="margin: 0;"> <!-- 移除了 align 属性，因为会被 flex 控制 -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; border: 1px solid red;">
+  <p style="margin: 0; border: 1px solid blue;">
     <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="350px">
   </p>
-  <p style="margin: 0;"> <!-- 移除了 align 属性 -->
+  <p style="margin: 0; border: 1px solid green;">
     <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="400px">
   </p>
 </div>
