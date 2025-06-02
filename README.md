@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="800px">
+  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" width="800px">
 </p>
 
 
