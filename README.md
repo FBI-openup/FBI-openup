@@ -1,9 +1,11 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="350px">
-</p>
-<p align="right">
-  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="400px">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <p style="margin: 0;"> <!-- 移除了 align 属性，因为会被 flex 控制 -->
+    <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="350px">
+  </p>
+  <p style="margin: 0;"> <!-- 移除了 align 属性 -->
+    <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" alt="Victor's AI & Tech Banner" width="400px">
+  </p>
+</div>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
