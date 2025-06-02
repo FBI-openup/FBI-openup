@@ -1,9 +1,9 @@
-<!-- p align="center">
+< p align="center">
   <!-- 请将下面的 <OWNER> 替换为你的 GitHub 用户名，并将 <GIF_NAME>.gif 替换为你的 GIF 文件名 -->
   <!-- 示例: https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/my-banner.gif -->
   <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/9z_blur.gif" alt="Victor's AI & Tech Banner" width="500px">
 </p>
-<!-- p align="center">
+< p align="center">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FBI-openup&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBI-openup&layout=compact&theme=radical" alt="Victor's Top Languages"/>
