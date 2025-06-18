@@ -42,10 +42,6 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" width="800px">
-</p>
-
 
 🔹 Research Intern | ENSTA - École Nationale Supérieure de Techniques Avancées - Lab U2IS *(Paris, France | Mar 2025 – Sep 2025)*
 - The implementation of reliable **local obstacle avoidance** and generalizable **global path planning algorithms** for Safe Worker-collaborative Navigation for AMR (Autonomous Mobile Robots).
@@ -96,4 +92,6 @@
 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FBI-openup/FBI-openup/master/neuro.gif" width="800px">
+</p>
