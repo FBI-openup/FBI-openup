@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="28" height="28" style="vertical-align:middle;"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="28" height="28" style="vertical-align:middle;"alt="CSS3"/>
 
   <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=feedly&logoColor=white" alt="XML"/> 
   <img src="https://img.shields.io/badge/x86_64_Assembly-522D80?style=for-the-badge&logo=intel&logoColor=white" alt="x86-64 Assembly"/>
