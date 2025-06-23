@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
-  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logoColor=white&text=Lustre" alt="Lustre"/> 
+  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logo=apachespark&logoColor=white" alt="Lustre"/> 
 </p>
 
 🔹 Research Intern | ENSTA - École Nationale Supérieure de Techniques Avancées - Lab U2IS *(Paris, France | Mar 2025 – Sep 2025)*
