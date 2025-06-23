@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=feedly&logoColor=white" alt="XML"/> <!-- Using Feedly logo as a stand-in for generic XML -->
@@ -36,9 +37,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
-  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logoColor=white&text=Lustre" alt="Lustre"/> <!-- No specific logo for Lustre, using text -->
+  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logoColor=white&text=Lustre" alt="Lustre"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
 </p>
