@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=feedly&logoColor=white" alt="XML"/> <!-- Using Feedly logo as a stand-in for generic XML -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=w3c&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=feedly&logoColor=white" alt="XML"/> 
   <img src="https://img.shields.io/badge/x86_64_Assembly-522D80?style=for-the-badge&logo=intel&logoColor=white" alt="x86-64 Assembly"/>
   <img src="https://img.shields.io/badge/GDB-CC0000?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
@@ -36,11 +36,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml"/>
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
-  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logoColor=white&text=Lustre" alt="Lustre"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/HCL-6836F2?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL"/>
+  <img src="https://img.shields.io/badge/Lustre-FF6B00?style=for-the-badge&logoColor=white&text=Lustre" alt="Lustre"/> 
 </p>
 
 🔹 Research Intern | ENSTA - École Nationale Supérieure de Techniques Avancées - Lab U2IS *(Paris, France | Mar 2025 – Sep 2025)*
