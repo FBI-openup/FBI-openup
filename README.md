@@ -3,7 +3,9 @@
 </p>
 Connect with me
 <p align="left"> <a href="https://www.linkedin.com/in/boyuan-zhang-493776216" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a 
-                                                                                                                                                                                                                                 href="https://www.victor-zhang.me/" target="_blank"> <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/> </a> </p>
+href="https://www.victor-zhang.me/" target="_blank"> <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/> </a> </p>
+
+
 [![GitHub Streak](https://streak-stats.vercel.app?user=FBI-openup&theme=cyber-streakglow&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
