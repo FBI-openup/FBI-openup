@@ -4,7 +4,9 @@
 
 <!-- Personal Website — bright & 4x bigger --><!-- LinkedIn -->
 <p align="left">  <a href="https://www.linkedin.com/in/boyuan-zhang-493776216" target="_blank" style="transform: scale(1.2); display: inline-block; margin-right: 20px;"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+</p>
 
+<p align="left">
 <a href="https://www.victor-zhang.me/" target="_blank" style="transform: scale(4); display: inline-block; transform-origin: left top;">
 <img src="https://img.shields.io/badge/Personal%20Website-FF7EEB?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=4D9FFF" alt="Website"/>
 </a>
